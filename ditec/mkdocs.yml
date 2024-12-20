@@ -1,0 +1,17 @@
+site_name: DiTEC
+theme: readthedocs
+nav:
+  - GiDA- The Gigantic Dataset:
+    - Introduction: 
+      - Overview: gida/overview.md
+      - Install GiDA: gida/installation.md
+      - Quickstart: gida/quickstart.md
+    - Tutorials: 
+      - Datasets: gida/datasets.md
+      - Parameter stacking: gida/parameters.md
+      - Simulation Configuration: gida/simconfig_tut.md
+      - Scenario generation: gida/scene_gen.md
+    - Advance Topics:
+      - Hydraulic Parameter Optimization: gida/hpo.md
+      - Naive/ Manual HPO: gida/naive_manual_hpo.md
+      - PSO: gida/pso.md
